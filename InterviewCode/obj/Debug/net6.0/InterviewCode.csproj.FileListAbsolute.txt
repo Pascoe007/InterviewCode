@@ -1,0 +1,13 @@
+Z:\C# Code\InterviewCode\InterviewCode\bin\Debug\net6.0\InterviewCode.exe
+Z:\C# Code\InterviewCode\InterviewCode\bin\Debug\net6.0\InterviewCode.deps.json
+Z:\C# Code\InterviewCode\InterviewCode\bin\Debug\net6.0\InterviewCode.runtimeconfig.json
+Z:\C# Code\InterviewCode\InterviewCode\bin\Debug\net6.0\InterviewCode.dll
+Z:\C# Code\InterviewCode\InterviewCode\bin\Debug\net6.0\InterviewCode.pdb
+Z:\C# Code\InterviewCode\InterviewCode\obj\Debug\net6.0\InterviewCode.csproj.AssemblyReference.cache
+Z:\C# Code\InterviewCode\InterviewCode\obj\Debug\net6.0\InterviewCode.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C# Code\InterviewCode\InterviewCode\obj\Debug\net6.0\InterviewCode.csproj.CoreCompileInputs.cache
+Z:\C# Code\InterviewCode\InterviewCode\obj\Debug\net6.0\InterviewCode.dll
+Z:\C# Code\InterviewCode\InterviewCode\obj\Debug\net6.0\refint\InterviewCode.dll
+Z:\C# Code\InterviewCode\InterviewCode\obj\Debug\net6.0\InterviewCode.pdb
+Z:\C# Code\InterviewCode\InterviewCode\obj\Debug\net6.0\InterviewCode.genruntimeconfig.cache
+Z:\C# Code\InterviewCode\InterviewCode\obj\Debug\net6.0\ref\InterviewCode.dll
